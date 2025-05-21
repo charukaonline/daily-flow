@@ -1,9 +1,10 @@
 import React from "react";
+import Login from "./pages/Login";
 
 function App() {
   return (
     <div>
-      <h1 className="text-3xl">Charuka NK</h1>
+      <Login />
     </div>
   );
 }
